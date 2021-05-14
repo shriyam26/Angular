@@ -1,0 +1,9 @@
+mat-form-field,
+textarea {
+  width :100%;
+  text-align: center;
+}
+
+mat-spinner{
+  margin : auto;
+}
